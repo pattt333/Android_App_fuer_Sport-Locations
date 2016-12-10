@@ -2,4 +2,5 @@
     <string name="app_name">Maps Demo</string>
     <string name="title_activity_maps">Map</string>
     <string name="clear_map_button">Clear Map</string>
+    <string name="clear_db_menu_button">Clear DB</string>
 </resources>
